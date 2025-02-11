@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "66ea",
+      "cityName": "Onda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-02-11T15:35:42.721Z",
+      "notes": "best",
+      "position": {
+        "lat": "39.95922773254976",
+        "lng": "-0.25131225585937506"
+      }
+    },
+    {
+      "id": "98db",
+      "cityName": "la Vall d'Uixo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-02-11T15:39:24.558Z",
+      "notes": "",
+      "position": {
+        "lat": "39.82224896999684",
+        "lng": "-0.19775390625000003"
+      }
+    },
+    {
+      "id": "4173",
+      "cityName": "Betera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-02-11T15:39:53.305Z",
+      "notes": "",
+      "position": {
+        "lat": "39.590873865955906",
+        "lng": "-0.45181274414062506"
+      }
+    }
+  ]
+}
